@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> pagina 2</title>
+</head>
+<body>
+    <h1>Ejemplo pagina 2</h1>
+    
+    <table border="2" style="width:50%">
+        <tr>
+           <td>color</td>
+           <td>pais</td>
+        </tr>
+        <tr>
+            <td>rojo</td>
+            <td>Mexico  </td>
+              <td><a href="http://www.presidencia.gob.mx">ver</a></td>
+        </tr>
+        <tr>
+            <td>azul</td>
+            <td>Italia</td>
+             <td><a href="http://www.usa.gov">ver</a></td>
+        </tr>
+    </table>    
+        
+         </body>
+        
+</html>
+    
